@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641306290144",
+    "project_id": "rdrr-d681a",
+    "storage_bucket": "rdrr-d681a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641306290144:android:315da0aa2b74e8cee86d85",
+        "android_client_info": {
+          "package_name": "com.harshthedeveloper.rdr.rdrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641306290144-bqv4vos7db4p6mdsn6e76vvidd0jkssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5TcchdK33pYZ-sGRVVcvcKKzjZw4KnsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641306290144-bqv4vos7db4p6mdsn6e76vvidd0jkssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
