@@ -11,9 +11,13 @@
  Some Screenshots : 
  
  
- ![image](https://user-images.githubusercontent.com/79366050/223662495-96516d51-372e-4a36-8be6-88cdfe152fe7.png)
-![image](https://user-images.githubusercontent.com/79366050/223662534-e1282e79-2d67-482b-8883-35988ea9c608.png)
-![image](https://user-images.githubusercontent.com/79366050/223662565-7308c3db-6b0a-482a-9007-6831daec1a0d.png)
+<img src =https://user-images.githubusercontent.com/79366050/223662495-96516d51-372e-4a36-8be6-88cdfe152fe7.png width="200" height="400" />
+
+
+<img src =https://user-images.githubusercontent.com/79366050/223662803-476d718a-013c-4dc3-a2b4-042f9db42666.png width="200" height="400" />
+
+
+<img src =https://user-images.githubusercontent.com/79366050/223662565-7308c3db-6b0a-482a-9007-6831daec1a0d.png width="250" height="400" />
  
  <b> Update 8/3/23 </b> The Mobile App does not work as of now. The API functionality of Twitter has changed. 
                          I will update the app whenever possible to account for this change.
